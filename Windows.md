@@ -24,6 +24,7 @@ Documentation of modifications made after fresh windows installation.
 	Netflix
 	Amazon Prime
 	Firefox Web Browser
+	Chrome Web Browser
 	HxD Hex Editor
 	IDA Freeware 7.0
 	Java
