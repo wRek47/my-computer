@@ -11,6 +11,7 @@ Documentation of modifications made after fresh windows installation.
 	CodeWriter
 	iTunes
 	IRC (HexChat, Discord)
+	GitHub Desktop
 	Google Calendar
 	Microsoft OneNote
 	Microsoft Outlook
